@@ -1,2 +1,2 @@
 # News-website
-News website only one frontend page
+News website only one front page
